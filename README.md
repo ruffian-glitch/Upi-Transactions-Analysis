@@ -63,10 +63,4 @@ A comprehensive Power BI project analyzing transaction data to provide actionabl
 
 ---
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and share it.
 
----
-
-## Contact
-For queries or collaboration, reach out via [LinkedIn](https://linkedin.com/in/your-profile) or email at your-email@example.com.
